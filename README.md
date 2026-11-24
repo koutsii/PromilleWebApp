@@ -3,9 +3,9 @@
 Kevyt full-stack-verkkosovellus veren alkoholipitoisuuden (promillemäärän) ja arvioidun palamisajan laskentaan Widmarkin kaavalla.
 
 ## Teknologiat
-* **Backend:** C++20 (`cpp-httplib`, `nlohmann/json`)
-* **Tietokanta:** SQLite3 (laskentahistorian tallennus)
-* **Frontend:** ReactJS (Vite)
+* **Backend:** C++20
+* **Tietokanta:** SQLite3
+* **Frontend:** ReactJS
 
 ## Ominaisuudet
 * Promillemäärän, puhtaan alkoholin (g) ja palamisajan laskenta
