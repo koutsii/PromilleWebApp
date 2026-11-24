@@ -1,0 +1,24 @@
+# Node.js ja React
+node_modules/
+frontend/dist/
+frontend/build/
+.env
+.env.local
+
+# C++ käännetyt binäärit ja objektitiedostot
+backend/server
+*.exe
+*.o
+*.obj
+*.out
+
+# SQLite-tietokantatiedostot
+*.db
+*.sqlite
+*.sqlite3
+
+# Editorit ja käyttöjärjestelmä
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
